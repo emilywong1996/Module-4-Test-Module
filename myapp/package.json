@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilywong1996/Module-4-Test-Module.git"
+  },
+  "keywords": [
+    "Panda"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilywong1996/Module-4-Test-Module/issues"
+  },
+  "homepage": "https://github.com/emilywong1996/Module-4-Test-Module#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
